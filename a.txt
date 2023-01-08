@@ -2,3 +2,6 @@ Editando arquivo a.txt
 a
 b
 c
+Diff
+de
+Arquivo
